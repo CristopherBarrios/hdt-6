@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hojadetrabajo6;
+//package hojadetrabajo6;
 
 import java.io.*;
 import java.util.HashMap;
@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.*;
 /**
  *
- * @author moyha
+ * @author Martin Ortega 18020
  */
 public class HojaDeTrabajo6 {
 

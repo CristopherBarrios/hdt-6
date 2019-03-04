@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hojadetrabajo6;
+//package hojadetrabajo6;
 
 import java.util.Map;
 import java.util.HashMap;
@@ -11,7 +11,7 @@ import java.util.TreeMap;
 import java.util.LinkedHashMap;
 /**
  *
- * @author moyha
+ * @author Martin Ortega 18020
  */
 public class Factory {
     
